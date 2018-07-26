@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/home"
+        android:title="Home"
+
+        android:icon="@drawable/settings"
+
+        />
+
+    <item android:id="@+id/home1"
+        android:title="My Account"
+        android:icon="@drawable/settings"/>
+
+    <item android:id="@+id/home2"
+        android:title="Reports"
+        android:icon="@drawable/settings"/>
+
+    <item android:id="@+id/home3"
+        android:title="Settings"
+        android:icon="@drawable/settings"/>
+
+    <item android:id="@+id/home4"
+        android:title="Log Out"
+        android:icon="@drawable/settings"/>
+
+
+</menu>
